@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Publications of Stefanie & Rene Schmidt'
+theme = 'no-style-please'
