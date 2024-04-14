@@ -1,0 +1,22 @@
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Title</th>
+            <th>💬</th>
+            <th>Publication</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range .publs }}
+        {{ if .ref }}
+        <tr>
+            <td>{{ .date }}</td>
+            <td><a href="{{ .ref }}">{{ .title }}</a>{{ if .paywalled }} 💰{{ end }}</td>
+            <td style="text-align:center">{{ .lang }}</td>
+            <td>{{ .publication_name }}</td>
+        </tr>
+        {{ end }}
+        {{ end }}
+    </tbody>
+</table>
