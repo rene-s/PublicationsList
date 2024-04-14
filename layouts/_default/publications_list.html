@@ -1,44 +1,54 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
+<h1 style="color:#A3D963">{{ .Title }}</h1>
 
+<a name="stefanie"></a>
 <h2>Stefanie Schmidt</h2>
 <table id="dataTable">
   <thead>
     <tr>
       <th onclick="sortTable(0)">Date</th>
       <th onclick="sortTable(1)">Title</th>
-      <th onclick="sortTable(2)">Publication</th>
+      <th onclick="sortTable(2)">💬</th>
+      <th onclick="sortTable(3)">Publication</th>
     </tr>
   </thead>
   <tbody>
     {{ range .Site.Data.publications.stefanie }}
+    {{ if .ref }}
     <tr>
       <td>{{ .date }}</td>
-      <td>{{ .title }} {{ .lang }}</td>
-      <td><a href="{{ .ref }}">{{ .publication_name }}</a></td>
+      <td><a href="{{ .ref }}">{{ .title }}</a>{{ if .paywalled }} 💰{{ end }}</td>
+      <td style="text-align:center">{{ .lang }}</td>
+      <td>{{ .publication_name }}</td>
     </tr>
+    {{ end }}
     {{ end }}
   </tbody>
 </table>
 
+<a name="rene"></a>
 <h2>Rene Schmidt</h2>
-<table id="dataTable">
+<table id="dataTable2">
   <thead>
     <tr>
       <th onclick="sortTable(0)">Date</th>
       <th onclick="sortTable(1)">Title</th>
-      <th onclick="sortTable(2)">Publication</th>
+      <th onclick="sortTable(2)">💬</th>
+      <th onclick="sortTable(3)">Publication</th>
     </tr>
   </thead>
   <tbody>
     {{ range .Site.Data.publications.rene }}
+    {{ if .ref }}
     <tr>
       <td>{{ .date }}</td>
-      <td>{{ .title }} {{ .lang }}</td>
-      <td><a href="{{ .ref }}">{{ .publication_name }}</a></td>
+      <td><a href="{{ .ref }}">{{ .title }}</a>{{ if .paywalled }} 💰{{ end }}</td>
+      <td style="text-align:center">{{ .lang }}</td>
+      <td>{{ .publication_name }}</td>
     </tr>
+    {{ end }}
     {{ end }}
   </tbody>
 </table>
-<p style="text-align:center" ><a href="https://sdo.sh/#contact">Contact</a></p>
+<p style="text-align:center"><a href="https://sdo.sh/#contact">Contact</a></p>
 {{ end }}

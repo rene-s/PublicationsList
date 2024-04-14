@@ -1,5 +1,588 @@
 [
-    {"date": "2005-09-01", "lang": "🇩🇪", "title": "Vernetzte Musik mit Network Sound System, ESoundD und Linux", "ref": "https://archive.org/details/fx-online-free-x-4-98-bis-einschliesslich-6-2007", "publication_name": "freeX 2005 #6, page 26"},
-    {"date": "2005-09-01", "lang": "🇩🇪", "title": "Hardware-Delegation für Xen-Domänen", "ref": "https://archive.org/details/fx-online-free-x-4-98-bis-einschliesslich-6-2007", "publication_name": "freeX 2005 #6, page 37"},
-    {"date": "2004-12-01", "lang": "🇩🇪", "title": "Übersicht Solaris-Distributionen", "ref": "https://archive.org/details/fx-online-free-x-4-98-bis-einschliesslich-6-2007", "publication_name": "freeX 2005 #1, page 22"}
+    {
+        "date": "2024-01-01",
+        "lang": "🇬🇧 🇩🇪",
+        "title": "Title",
+        "ref": "",
+        "publication_name": "Name"
+    },
+    {
+        "date": "2024-04-13",
+        "lang": "🇩🇪",
+        "title": "Hasura zum Modernisieren von Legacy-Web-Apps",
+        "ref": "https://www.golem.de/news/hasura-der-schluessel-zur-modernisierung-von-web-anwendungen-2404-184110.html",
+        "publication_name": "Golem Plus",
+        "paywalled": true
+    },
+    {
+        "date": "2024-03-06",
+        "lang": "🇬🇧",
+        "title": "Bitmasks in Postgres — Task Successfully Failed",
+        "ref": "https://medium.com/learning-sql/bitmasks-in-postgres-task-successfully-failed-3bb01c221f9e",
+        "publication_name": "Learning SQL on Medium.com",
+        "paywalled": true
+    },
+    {
+        "date": "2024-02-23",
+        "lang": "🇬🇧",
+        "title": "3 dead or abandoned GitHub projects",
+        "ref": "https://sdo-rs.medium.com/3-dead-github-projects-that-are-still-more-popular-than-your-own-passion-project-29f65002efff",
+        "publication_name": "Medium.com"
+    },
+    {
+        "date": "2024-02-13",
+        "lang": "🇬🇧",
+        "title": "The pros and cons of picking up dead open source projects",
+        "ref": "https://medium.com/@sdo-rs/why-would-i-pick-up-a-dead-open-source-project-f6a72de2b0dd",
+        "publication_name": "Medium.com"
+    },
+    {
+        "date": "2024-02-08",
+        "lang": "🇬🇧",
+        "title": "Efficient DBMS Storage of yes/no Attributes",
+        "ref": "https://medium.com/@sdo-rs/efficient-dbms-storage-of-yes-no-attributes-349d7b4c2ccd",
+        "publication_name": "Learning SQL on Medium.com",
+        "paywalled": true
+    },
+    {
+        "date": "2009-12-31",
+        "lang": "🇬🇧",
+        "title": "Book chapter 'Optimization for Websites'",
+        "ref": "https://www.amazon.com/Smashing-Book-Jon-Tan-ebook/dp/B004UN5RCY",
+        "publication_name": "Smashing Book #1, ISBN 978-3-943075-06-9."
+    },
+    {
+        "date": "2009-09-02",
+        "lang": "🇩🇪",
+        "title": "Tipps & Tricks mit OpenStreetMap",
+        "ref": "https://web.archive.org/web/20150707103612/http://www.drweb.de/magazin/tipps-tricks-mit-openstreetmap/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2009-03-30",
+        "lang": "🇩🇪",
+        "title": "Webdesign-Trends im Jahr 2009 (German translation)",
+        "ref": "https://web.archive.org/web/20150707103612/http://www.drweb.de/magazin/webdesign-trends-fur-das-jahr-2009/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2009-03-06",
+        "lang": "🇩🇪",
+        "title": "Daumenkino mit jQuery",
+        "ref": "https://web.archive.org/web/20150707103612/http://www.drweb.de/magazin/daumenkino-mit-jquery/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2009-03-03",
+        "lang": "🇩🇪",
+        "title": "Die große PHP-IDE-Übersicht",
+        "ref": "https://web.archive.org/web/20150707103612/http://www.drweb.de/magazin/die-grose-php-ide-ubersicht-schneller-programmieren-mit-integrierter-entwicklungsumgebung/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2009-02-24",
+        "lang": "🇩🇪",
+        "title": "Die harte Wahrheit über Firmen-Websites (German translation)",
+        "ref": "https://web.archive.org/web/20150802235446/http://www.drweb.de/magazin/die-harte-wahrheit-uber-firmen-websites/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2009-01-16",
+        "lang": "🇩🇪",
+        "title": "Twittern mit WordPress und Dr. Web",
+        "ref": "https://web.archive.org/web/20150919173050/http://www.drweb.de/magazin/twittern-mit-wordpress-und-dr-web/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2008-10-14",
+        "lang": "🇩🇪",
+        "title": "Dr. Web Magazin-Relaunch – Aus dem Maschinenraum",
+        "ref": "https://web.archive.org/web/20150707103612/http://www.drweb.de/magazin/dr-web-magazin-relaunch-aus-dem-maschinenraum/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2008-07-31",
+        "lang": "🇩🇪",
+        "title": "Nur zum Spaß: Nachrichten stauchen auf dem Smartphone",
+        "x-ref": "https://web.archive.org/web/20150707103612/http://www.drweb.de/magazin/nur-zum-spas-nachrichten-stauchen-auf-dem-smartphone/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2008-06-23",
+        "lang": "🇩🇪",
+        "title": "Ihr Kennwort ist unsicher",
+        "x-ref": "https://web.archive.org/web/20150928041144mp_/http://www.drweb.de/magazin/ihr-kennwort-ist-unsicher/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2008-06-01",
+        "lang": "🇩🇪",
+        "title": "coLinux (co-author)",
+        "ref": "https://web.archive.org/web/20170113233755/http://www.cul.de/virtual2.html",
+        "publication_name": "Das Virtualisierungs-Buch (1st edition), ISBN 978-3-936546-56-9",
+        "paywalled": true
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150908060159/http://www.drweb.de/magazin/yui-ein-ajax-riese-startet-teil-2-2/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175100/http://www.drweb.de/magazin/brauche-ich-ein-kontakformular/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175100/http://www.drweb.de/magazin/ganttproject-und-workrave-2/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175100/http://www.drweb.de/magazin/ganttproject-und-workrave/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175100/http://www.drweb.de/magazin/magpierss-und-smarty-heiraten/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175100/http://www.drweb.de/magazin/mysql-volltextsuche-zwei-hindernisse-und-ein-weg-drumherum/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175100/http://www.drweb.de/magazin/open-e-marketing-manager-und-otrs-ticketsystem/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175100/http://www.drweb.de/magazin/tipps-zum-konktaktformular-bausatz-fur-webentwickler/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175100/http://www.drweb.de/magazin/turbo-fur-php-entwickler-das-yellow-duck-framework/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175100/http://www.drweb.de/magazin/webhoster-vor-der-hochzeit/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175100/http://www.drweb.de/magazin/xajax-ajax-einfach-mit-php/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2007-09-25",
+        "lang": "🇩🇪",
+        "title": "TransMenu für WordPress",
+        "ref": "https://web.archive.org/web/20151027214742/http://www.drweb.de/magazin/transmenu-und-wordpress/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2007-06-27",
+        "lang": "🇩🇪",
+        "title": "Ein Vormittag im Leben eines SysAdmins",
+        "ref": "https://web.archive.org/web/20150919133934/http://www.drweb.de/magazin/ein-vormittag-im-leben-eines-sysadmins/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2007-05-10",
+        "lang": "🇩🇪",
+        "title": "Kostenlose SSL-Zertifikate",
+        "ref": "https://web.archive.org/web/20151027223607/http://www.drweb.de/magazin/kostenlose-ssl-zertifikate-fur-webserver-sicherheit-auch-fur-leere-geldbeutel/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2007-04-23",
+        "lang": "🇩🇪",
+        "title": "Kostengünstige Rootserver",
+        "ref": "https://web.archive.org/web/20151027232222/http://www.drweb.de/magazin/der-eigene-kostengunstige-rootserver-fur-websites-ein-kleiner-leitfaden-fur-entscheider/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2007-03-08",
+        "lang": "🇩🇪",
+        "title": "Anti-Spam für Kontaktformulare",
+        "ref": "https://web.archive.org/web/20151027195807/http://www.drweb.de/magazin/dr-web-kontaktformularbausatz-15-spam-erkennungsdienstlich-behandelt/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2006-05-01",
+        "lang": "🇩🇪",
+        "title": "Multiple chapters regarding software development and server operations",
+        "ref": "https://www.booklooker.de/app/result.php?mediaType=0&isbn=3928484990",
+        "publication_name": "Dr.Web Buch #5, ISBN 3-928484-99-0",
+        "paywalled": true
+    },
+    {
+        "date": "2006-04-01",
+        "lang": "🇩🇪",
+        "title": "Gateway, Firewall und Xen 3",
+        "ref": "https://archive.org/details/fx-online-free-x-4-98-bis-einschliesslich-6-2007",
+        "publication_name": "freeX 2006 #3, page 72"
+    },
+    {
+        "date": "2006-03-30",
+        "lang": "🇩🇪",
+        "title": "Joomla vs. Mambo",
+        "ref": "https://web.archive.org/web/20150919121624/http://www.drweb.de/magazin/joomla-gegen-mambo/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2006-01-26",
+        "lang": "🇩🇪",
+        "title": "Versionskontrolle und TortoiseSVN",
+        "ref": "https://web.archive.org/web/20150919121624/http://www.drweb.de/magazin/gegen-das-chaos-versionskontrolle/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-12-12",
+        "lang": "🇩🇪",
+        "title": "SSH: Die Arbeit mit der Secure Shell",
+        "ref": "https://web.archive.org/web/20150919175143/http://www.drweb.de/magazin/ssh-die-arbeit-mit-der-secure-shell-2/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20151027202713/http://www.drweb.de/magazin/die-beliebtesten-online-wysiwyg-editoren/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20151028021151/http://www.drweb.de/magazin/astra-und-yui-scripting-mit-yahoo/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919121624/http://www.drweb.de/magazin/so-geht-email/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919121624/http://www.drweb.de/magazin/sicherer-downloadcounter-mit-php/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919121624/http://www.drweb.de/magazin/shop-systeme-kurzvorstellungen-teil-2/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919121624/http://www.drweb.de/magazin/sichere-formulare-teil-4-spam-bots-masregeln/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919121624/http://www.drweb.de/magazin/sichere-formulare-teil-3-pseudo-grafisches-captcha-mit-php/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919121624/http://www.drweb.de/magazin/musik-auf-der-website-ist-das-sinnvoll/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919121624/http://www.drweb.de/magazin/werbeblocker-austricksen/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919121624/http://www.drweb.de/magazin/shop-systeme-kurzvorstellungen-teil-1/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175143/http://www.drweb.de/magazin/ordnung-auf-dem-server/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175143/http://www.drweb.de/magazin/konktaktformular-bausatz-fur-webentwickler/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175143/http://www.drweb.de/magazin/spam-gefahr-durch-kontaktformulare/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175143/http://www.drweb.de/magazin/welche-webhoster-wahlen/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175143/http://www.drweb.de/magazin/website-ausfallsicherheit-erste-hilfe-tipps-fur-das-kleine-unternehmen/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175143/http://www.drweb.de/magazin/webgui-cms-daumen-hoch/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919175143/http://www.drweb.de/magazin/html-template-systeme-in-php/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919173118/http://www.drweb.de/magazin/website-update-operation-am-offenen-webserver-herzen/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919173118/http://www.drweb.de/magazin/e-mails-kostenlos-verschlusseln-in-4-schritten/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-11-28",
+        "lang": "🇩🇪",
+        "title": "Podcasting mit WordPress",
+        "ref": "https://web.archive.org/web/20150919173118/http://www.drweb.de/magazin/podcasting-so-podcasten-sie-mit-wordpress-und-serendipity/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-11-21",
+        "lang": "🇩🇪",
+        "title": "Produktvorstellung OXID eShop",
+        "ref": "https://web.archive.org/web/20150919175143/http://www.drweb.de/magazin/luxus-frontend-oxids-eshop/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-11-07",
+        "lang": "🇩🇪",
+        "title": "WebAnalytics mit PHP-OpenTracker",
+        "ref": "https://web.archive.org/web/20150919175143/http://www.drweb.de/magazin/statistiken-und-klickpfade-mit-phpopentracker/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-10-13",
+        "lang": "🇩🇪",
+        "title": "Googles AdWords-API und APIlity",
+        "ref": "https://web.archive.org/web/20150919173118/http://www.drweb.de/magazin/googles-adwords-api-und-apility/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919173118/http://www.drweb.de/magazin/dem-http-header-auf-der-spur/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919173118/http://www.drweb.de/magazin/metrikangaben-mit-css-entscharft/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919173118/http://www.drweb.de/magazin/podcasting-die-neue-programmvielfalt/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919173118/http://www.drweb.de/magazin/yacy-verteiltes-suchen/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919173118/http://www.drweb.de/magazin/komplexe-kur-welches-shop-system-ist-das-richtige-teil-5-der-verkaufsraum/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919164950/http://www.drweb.de/magazin/gefahrlicher-rootserver/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919164950/http://www.drweb.de/magazin/mysqli-mit-php5/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919164950/http://www.drweb.de/magazin/was-kann-er-server-im-test/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919164950/http://www.drweb.de/magazin/komplexe-kur-welches-shop-system-ist-das-richtige-teil-4-funktionen-und-service/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919164950/http://www.drweb.de/magazin/komplexe-kur-welches-shop-system-ist-das-richtige-teil-3-die-nebenkosten/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919173157/http://www.drweb.de/magazin/oscommerce-verbessert-xtcommerce/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919164950/http://www.drweb.de/magazin/kein-vorbild-mehr-amazon/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919164950/http://www.drweb.de/magazin/komplexe-kur-welches-shop-system-ist-das-richtige-teil-1-lizenzen-und-kosten/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919164950/http://www.drweb.de/magazin/komplexe-kur-welches-shop-system-ist-das-richtige-teil-2-webspace-und-server/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919164950/http://www.drweb.de/magazin/fur-gluckliche-blogger-serendipity/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-99-99",
+        "lang": "🇩🇪",
+        "title": "Unknown",
+        "x-ref": "https://web.archive.org/web/20150919164950/http://www.drweb.de/magazin/mit-neuen-ideen-shopweezle/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2005-09-01",
+        "lang": "🇩🇪",
+        "title": "Vernetzte Musik mit Network Sound System, ESoundD und Linux",
+        "ref": "https://archive.org/details/fx-online-free-x-4-98-bis-einschliesslich-6-2007",
+        "publication_name": "freeX 2005 #6, page 26"
+    },
+    {
+        "date": "2005-09-01",
+        "lang": "🇩🇪",
+        "title": "Hardware-Delegation für Xen-Domänen",
+        "ref": "https://archive.org/details/fx-online-free-x-4-98-bis-einschliesslich-6-2007",
+        "publication_name": "freeX 2005 #6, page 37"
+    },
+    {
+        "date": "2005-04-04",
+        "lang": "🇩🇪",
+        "title": "CAPTCHAs für WordPress",
+        "ref": "https://web.archive.org/web/20150929022320/http://www.drweb.de/magazin/ein-anti-spam-trick-fur-wordpress/",
+        "publication_name": "Dr.Web"
+    },
+    {
+        "date": "2004-12-01",
+        "lang": "🇩🇪",
+        "title": "Übersicht Solaris-Distributionen",
+        "ref": "https://archive.org/details/fx-online-free-x-4-98-bis-einschliesslich-6-2007",
+        "publication_name": "freeX 2005 #1, page 22"
+    },
+    {
+        "date": "2024-11-04",
+        "lang": "🇩🇪",
+        "title": "Debian: Elegante SSH-Authentifizierung über PAM",
+        "ref": "https://web.archive.org/web/20100326051822/http://www.pro-linux.de/NB3/artikel/2/792/elegante-ssh-authentifizierung-reloaded.html",
+        "publication_name": "Pro-Linux"
+    },
+    {
+        "date": "2024-04-12",
+        "lang": "🇩🇪",
+        "title": "Gentoo: Elegante SSH-Authentifizierung über PAM",
+        "ref": "https://web.archive.org/web/20040618183938/http://www.pro-linux.de/news/2004/6703.html",
+        "publication_name": "Pro-Linux"
+    }
 ]

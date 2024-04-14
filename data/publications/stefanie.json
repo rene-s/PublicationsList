@@ -1,4 +1,23 @@
 [
-    {"date":"2024-03-07", "lang": "🇬🇧", "title": "The Navigator Methods in Flutter and their Differences", "ref": "https://sdo-ssc.medium.com/the-navigator-methods-in-flutter-and-their-differences-25c8f2a1d452", "publication_name": "Medium.com"},
-    {"date":"2024-02-16", "lang": "🇬🇧", "title": "How to migrate dependencies in a Flutter project", "ref": "https://sdo-ssc.medium.com/how-to-migrate-dependencies-in-a-flutter-project-a3edd1a4d69f", "publication_name": "Medium.com"}
+    {
+        "date": "2024-01-01",
+        "lang": "🇬🇧 🇩🇪",
+        "title": "Title",
+        "ref": "",
+        "publication_name": "Name"
+    },
+    {
+        "date": "2024-03-07",
+        "lang": "🇬🇧",
+        "title": "The Navigator Methods in Flutter and their Differences",
+        "ref": "https://sdo-ssc.medium.com/the-navigator-methods-in-flutter-and-their-differences-25c8f2a1d452",
+        "publication_name": "Medium.com"
+    },
+    {
+        "date": "2024-02-16",
+        "lang": "🇬🇧",
+        "title": "How to migrate dependencies in a Flutter project",
+        "ref": "https://sdo-ssc.medium.com/how-to-migrate-dependencies-in-a-flutter-project-a3edd1a4d69f",
+        "publication_name": "Medium.com"
+    }
 ]
