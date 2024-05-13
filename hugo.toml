@@ -1,7 +1,7 @@
-baseURL = 'https://rene-s.github.io/PublicationsList/'
+baseURL = '//localhost:1313/PublicationsList/'
 languageCode = 'en-us'
 title = 'Publications of Stefanie & Rene Schmidt'
-theme = 'no-style-please'
+theme = 'my-no-style-please'
 
 publishDir = "docs"
 
