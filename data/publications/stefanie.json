@@ -7,6 +7,14 @@
         "publication_name": "Name"
     },
     {
+        "date": "2024-05-16",
+        "lang": "🇩🇪",
+        "title": "Title",
+        "ref": "https://glm.io/185147",
+        "publication_name": "Golem Plus",
+        "paywalled": true
+    },
+    {
         "date": "2024-03-07",
         "lang": "🇬🇧",
         "title": "The Navigator Methods in Flutter and their Differences",
