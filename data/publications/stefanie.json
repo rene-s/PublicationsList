@@ -7,6 +7,30 @@
         "publication_name": "Name"
     },
     {
+        "date": "2024-07-05",
+        "lang": "🇩🇪",
+        "title": "Immersive Phone Calls: Quatsch oder nützlich?",
+        "ref": "https://glm.io/186677",
+        "publication_name": "Golem",
+        "paywalled": false
+    },
+    {
+        "date": "2024-07-04",
+        "lang": "🇩🇪",
+        "title": "Worst Practices in der Programmierung: Schlechten Code erkennen und vermeiden",
+        "ref": "https://glm.io/186632",
+        "publication_name": "Golem Plus",
+        "paywalled": true
+    },
+    {
+        "date": "2024-05-25",
+        "lang": "🇩🇪",
+        "title": "Fluttter: Die Navigator-Methoden richtig verwenden",
+        "ref": "https://glm.io/185337",
+        "publication_name": "Golem Plus",
+        "paywalled": true
+    },
+    {
         "date": "2024-05-16",
         "lang": "🇩🇪",
         "title": "Wann Kommentare im Code sinnvoll sind",
