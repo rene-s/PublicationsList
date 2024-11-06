@@ -7,6 +7,14 @@
         "publication_name": "Name"
     },
     {
+        "date": "2024-10-09",
+        "lang": "🇩🇪",
+        "title": "Zweifaktor-TOTP-Token aus Aegis Authenticator sichern",
+        "ref": "https://glm.io/189619",
+        "publication_name": "Golem",
+        "paywalled": true
+    },
+    {
         "date": "2024-08-06",
         "lang": "🇩🇪",
         "title": "Codegolf: Mit 140 Zeichen Code auf dem Golfplatz",
