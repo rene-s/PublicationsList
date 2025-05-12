@@ -7,6 +7,14 @@
         "publication_name": "Name"
     },
     {
+        "date": "2024-02-24",
+        "lang": "🇩🇪",
+        "title": "Schon mal was gehackt?",
+        "ref": "https://glm.io/193643",
+        "publication_name": "Golem Plus",
+        "paywalled": true
+    },
+    {
         "date": "2024-10-09",
         "lang": "🇩🇪",
         "title": "Zweifaktor-TOTP-Token aus Aegis Authenticator sichern",
