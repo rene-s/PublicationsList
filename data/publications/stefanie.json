@@ -45,7 +45,7 @@
         "title": "Dart: Die unterschätzte Programmiersprache",
         "ref": "https://glm.io/190753",
         "publication_name": "Golem Plus",
-        "paywalled": false
+        "paywalled": true
     },
     {
         "date": "2024-10-31",
@@ -90,7 +90,7 @@
     {
         "date": "2024-05-25",
         "lang": "🇩🇪",
-        "title": "Fluttter: Die Navigator-Methoden richtig verwenden",
+        "title": "Flutter: Die Navigator-Methoden richtig verwenden",
         "ref": "https://glm.io/185337",
         "publication_name": "Golem Plus",
         "paywalled": true
