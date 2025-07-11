@@ -1,14 +1,39 @@
 [
     {
         "date": "2024-01-01",
-        "lang": "🇬🇧 🇩🇪",
+        "lang": "\uD83C\uDDEC\uD83C\uDDE7 \uD83C\uDDE9\uD83C\uDDEA",
         "title": "Title",
         "ref": "",
         "publication_name": "Name"
     },
     {
-        "date": "2024-02-24",
-        "lang": "🇩🇪",
+        "date": "2025-07-04",
+        "lang": "\uD83C\uDDE9\uD83C\uDDEA",
+        "title": "The Elder Scrolls: Wir machen uns selbst ein Morrowind-Remaster!",
+        "ref": "https://glm.io/197665",
+        "publication_name": "Golem Plus",
+        "paywalled": true
+    },
+    {
+        "date": "2025-05-20",
+        "lang": "\uD83C\uDDE9\uD83C\uDDEA",
+        "title": "Goodram-SSD: Speicher aus Laziska Górne",
+        "ref": "https://glm.io/196360",
+        "publication_name": "Golem Plus",
+        "paywalled": true
+    },
+    {
+        "date": "2025-05-18",
+        "lang": "\uD83C\uDDE9\uD83C\uDDEA",
+        "title": "Mit Hello Tracking bei Social-Logins vermeiden,",
+        "ref": "https://glm.io/196084",
+        "publication_name": "Golem Plus",
+        "paywalled": true
+    },
+
+    {
+        "date": "2025-02-24",
+        "lang": "\uD83C\uDDE9\uD83C\uDDEA",
         "title": "Schon mal was gehackt?",
         "ref": "https://glm.io/193643",
         "publication_name": "Golem Plus",
